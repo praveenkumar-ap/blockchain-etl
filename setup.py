@@ -13,7 +13,7 @@ setup(
     name='ethereum-etl',
     version='2.4.2',
     author='Praveen Kumar',
-    author_email='evge.medvedev@gmail.com',
+    author_email='pk18january@gmail.com',
     description='Tools for exporting Ethereum blockchain data to CSV or JSON',
     long_description=long_description,
     long_description_content_type='text/markdown',
